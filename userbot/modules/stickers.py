@@ -88,7 +88,7 @@ async def kang(args):
     if photo:
         splat = args.text.split()
         if not emojibypass:
-            emoji = "😃"
+            emoji = "🤔"
         pack = 1
         if len(splat) == 3:
             pack = splat[2]  # User sent both
@@ -244,8 +244,8 @@ async def kang(args):
                 # Ensure user doesn't get spamming notifications
                 await bot.send_read_acknowledge(conv.chat_id)
 
-        await args.edit(f"`kanged successfully!`\
-                        \nClick [here](t.me/addstickers/{packname})",
+        await args.edit(f"`Buildbotted for you Senpai`\
+                        \nPress [here](t.me/addstickers/{packname})",
                         parse_mode='md')
 
 
