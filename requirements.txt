@@ -71,3 +71,4 @@ jotquote
 csvfaker
 pymongo[srv]
 youtube_search
+zipfile38
