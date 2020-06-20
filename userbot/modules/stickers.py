@@ -353,7 +353,7 @@ CMD_HELP.update({
 \n\n`.kang` [emoji('s)]\
 \nUsage: Works just like .kang but uses the emoji('s) you picked.\
 \n\n`.kang` [number]\
-\nUsage: Kang's the sticker/image to the specified pack but uses 😃 as emoji.\
+\nUsage: Kang's the sticker/image to the specified pack but uses 🤔 as emoji.\
 \n\n`.kang` [emoji('s)] [number]\
 \nUsage: Kang's the sticker/image to the specified pack and uses the emoji('s) you picked.\
 \n\n`.stkrinfo`\
